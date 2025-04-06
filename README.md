@@ -10,7 +10,7 @@
       - Python<br>
       - Jupyter Notebook<br><br>
       🔗 <b>URL do Projeto:</b><br>
-      <a href="www.linkedin.com/in/gcv-silva">Acesse meu LinkedIn</a>
+      <a href="https://www.linkedin.com/in/gcv-silva/">Acesse meu LinkedIn</a>
     </td>
   </tr>
 </table>
